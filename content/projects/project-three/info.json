@@ -1,0 +1,29 @@
+{
+  "title": "Project Three",
+  "order": 3,
+  "year": "2024",
+  "tags": [
+    "Editorial"
+  ],
+  "cover": "cover.svg",
+  "intro": [
+    "Placeholder: what this personal project is about and why you made it."
+  ],
+  "link": "",
+  "work": [
+    {
+      "type": "image",
+      "src": "01.svg"
+    },
+    {
+      "type": "image",
+      "src": "02.svg",
+      "width": "half"
+    },
+    {
+      "type": "image",
+      "src": "03.svg",
+      "width": "half"
+    }
+  ]
+}

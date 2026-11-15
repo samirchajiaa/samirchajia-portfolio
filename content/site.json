@@ -1,0 +1,28 @@
+{
+  "name": "Samir Chajia",
+  "title": "Graphic Designer & Art Director",
+  "location": "Based in — City, Country",
+  "availability": "Available for freelance",
+  "url": "https://samirchajia.com",
+  "description": "Portfolio of Samir Chajia — graphic design, art direction, typefaces and posters.",
+  "photo": "photo.svg",
+  "bio": [
+    "Placeholder: one or two sentences that say who you are and what kind of work you do best.",
+    "A longer paragraph about your background, the brands and studios you've worked with, and what you enjoy making. Replace this with your own words.",
+    "An optional third paragraph — what you're currently working on or open to."
+  ],
+  "services": [
+    "Art Direction",
+    "Brand Identity",
+    "Motion Design",
+    "Type Design",
+    "Poster Design",
+    "Social Media Design"
+  ],
+  "email": "hello@samirchajia.com",
+  "links": [
+    { "label": "Behance", "url": "https://www.behance.net/" },
+    { "label": "Instagram", "url": "https://www.instagram.com/" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/" }
+  ]
+}

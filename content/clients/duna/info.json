@@ -1,0 +1,57 @@
+{
+  "name": "Duna",
+  "order": 7,
+  "year": "2024",
+  "logo": "logo.svg",
+  "intro": [
+    "Placeholder: a short line about the project for Duna — what the brief was and what you made.",
+    "A second, optional paragraph for more context: the idea, the process, or the results."
+  ],
+  "role": [
+    "Art Direction",
+    "Motion Design",
+    "Social Media Design"
+  ],
+  "team": [
+    {
+      "role": "Agency",
+      "name": "Agency Name",
+      "url": ""
+    },
+    {
+      "role": "Creative Director",
+      "name": "Person Name",
+      "url": ""
+    },
+    {
+      "role": "Photography",
+      "name": "Person Name",
+      "url": ""
+    }
+  ],
+  "work": [
+    {
+      "type": "image",
+      "src": "01.svg"
+    },
+    {
+      "type": "video",
+      "src": "",
+      "ratio": "16:9"
+    },
+    {
+      "type": "image",
+      "src": "02.svg",
+      "width": "half"
+    },
+    {
+      "type": "image",
+      "src": "03.svg",
+      "width": "half"
+    },
+    {
+      "type": "image",
+      "src": "04.svg"
+    }
+  ]
+}

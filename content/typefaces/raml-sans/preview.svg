@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+<rect width="1200" height="900" fill="#e6e3db"/>
+<text x="70" y="110" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#111" opacity=".6">TYPEFACE — PLACEHOLDER</text>
+<text x="600" y="560" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="260" fill="#111" letter-spacing="-8">Aa</text>
+<text x="70" y="830" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="56" fill="#111" letter-spacing="-2">Raml Sans</text>
+</svg>
